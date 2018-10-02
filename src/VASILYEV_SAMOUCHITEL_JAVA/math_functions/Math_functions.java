@@ -23,6 +23,14 @@ public class Math_functions {
         //int resultInt = (int)result;
         System.out.println("Число " + foundation + " в степени " + stepen + " равно " + result);
     }
+
+    public static void stepen3(){
+        double foundation = 16;
+        double stepen = (double)1/2;
+        double result = Math.pow(foundation, stepen);
+        //int resultInt = (int)result;
+        System.out.println("Число " + foundation + " в степени " + stepen + " равно " + result);
+    }
 }
 
 
