@@ -6,6 +6,7 @@ public class Math_functions {
     public static void main(String[] args) {
         stepen();
         stepen2();
+        stepen3();
     }
 
     public static void stepen(){
@@ -31,6 +32,8 @@ public class Math_functions {
         //int resultInt = (int)result;
         System.out.println("Число " + foundation + " в степени " + stepen + " равно " + result);
     }
+
+
 }
 
 
